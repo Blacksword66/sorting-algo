@@ -1,5 +1,5 @@
 # Sorting Algorithms
-** This repository has been created to help me keep track of all the sorting algorithms i learn and apply them in C language.**
+**This repository has been created to help me keep track of all the sorting algorithms i learn and apply them in C language.**
 ## Learned in Theory:
 - Bubble Sort
 - Quick Sort
