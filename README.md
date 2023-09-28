@@ -9,3 +9,4 @@
 
 ## Code Uploaded for:
 - Bubble Sort
+- Quick Sort
